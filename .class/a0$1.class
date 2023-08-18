@@ -3,3 +3,6 @@ dllRegisterServerDCPS; ("0xffffffffffffff1")
 
 ; Characters $ and ' interfere with DLL registering.
 ; command1.cmdLineStringKey; *<.dll ÷ register>*
+
+{
+}
