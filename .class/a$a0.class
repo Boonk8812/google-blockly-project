@@ -1,1 +1,6 @@
+; Parse HTML Code
+; Register all DLLs
 
+
+drive.dllinstall("061BFFBC100F0DE7EEFA51DAFCC6BC9");
+systray_crashState.$CALLDLL{halt,system};
